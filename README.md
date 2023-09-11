@@ -6,7 +6,7 @@ This project developed using Angular Technology
 clone this repo to your system
 
 ```
-git clone [https://github.com/ShehanEraliyanage/betalaunch_assignment_employment_management_system.git](https://github.com/umeshmadushan/Tech84Assignment.git)
+git clone https://github.com/umeshmadushan/Tech84Assignment.git
 ```
 
 Then go to root folder
